@@ -178,7 +178,7 @@ figcaption {
 
 /*----------- FORM --------------*/
 form fieldset {
-    margin: 2rem 0;
+    margin: 2rem .5rem;
     border: 1px solid #445ba9;
     border-radius: 10px;
     padding: .5rem 2%;
