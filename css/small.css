@@ -190,7 +190,7 @@ form legend {
     padding: 0 .5rem;
 }
 
-form label.top, form div {
+form label.top, .slider, form div {
     display: block;
     padding-top: 1rem;
     color: #9c2c13;
@@ -216,6 +216,15 @@ form label.sbs {
     color: #555;
 }
 
+input#rating{
+    width: 300px;
+}
+
+#ratingvalue {
+    margin: 0 15px;
+    color: #555;
+}
+ 
 form input.submitBtn {
     border: none;
     background-color: #9c2c13;

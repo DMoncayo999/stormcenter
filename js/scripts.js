@@ -57,3 +57,8 @@ function toggleMenu () {
     // return new Date();
     return new Date().toLocaleDateString("en-Us", options)
 }
+
+//rating storm slider
+function adjustRating() {
+    document.getElementById("ratingvalue").innerHTML = document.getElementById("rating").value;
+}
