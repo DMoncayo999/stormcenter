@@ -42,6 +42,11 @@ figcaption {
     text-align: center;
     padding: 1em;  
 }
+/*-----------FORM-------*/
+
+form label.sbs {
+    padding: .4rem 0;
+} 
 
 
 } /*end large */
